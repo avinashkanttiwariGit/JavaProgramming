@@ -1,4 +1,4 @@
-package ADAArrays;
+package ADArrays;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

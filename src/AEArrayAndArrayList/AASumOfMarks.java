@@ -1,4 +1,4 @@
-package ADArrayAndArrayList;
+package AEArrayAndArrayList;
 
 import java.util.Arrays;
 import java.util.Iterator;

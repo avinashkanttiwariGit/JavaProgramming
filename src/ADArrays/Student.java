@@ -1,4 +1,4 @@
-package ADAArrays;
+package ADArrays;
 
 public class Student 
 {

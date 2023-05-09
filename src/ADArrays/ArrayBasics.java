@@ -1,4 +1,4 @@
-package ADAArrays;
+package ADArrays;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
